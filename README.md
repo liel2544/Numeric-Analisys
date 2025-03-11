@@ -1,5 +1,5 @@
 # Advanced Mathematical Algorithms and Implementations
-
+<img src="Numeric-Analisys_visual.webp" alt="Siamese Network Visualization" style="width:60%;">
 ## Overview
 
 This project showcases Python implementations of advanced mathematical problem-solving techniques. It is structured around multiple assignments, each focusing on key topics such as interpolation, numerical integration, curve fitting, and root finding. The implementations emphasize efficiency, accuracy, and handling noisy data in complex mathematical scenarios.
